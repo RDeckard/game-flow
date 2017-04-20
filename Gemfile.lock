@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-flow (0.1.8)
+    motion-game (1.1.14)
+    rake (12.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion-flow
+  motion-game
+  rake
+
+BUNDLED WITH
+   1.12.5
